@@ -62,7 +62,7 @@ private static int sred(){
             System.out.print(employees[i].getMidlleName());
             System.out.print(" ");
             System.out.print(employees[i].getSurName());
-            System.out.println(" ");
+            System.out.println("  ");
         }
 
         }
